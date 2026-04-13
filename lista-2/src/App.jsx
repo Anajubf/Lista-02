@@ -2,6 +2,8 @@ import BotaoVerde from "./components/exercicio01";
 import CabecalhoLoja from "./components/exercicio02";
 import BotaoUniversal from "./components/exercicio03";
 import CrachaVistitante from "./components/exercicio04";
+import CampoDigitacao from "./components/exercicio08";
+import AcessoBancario from "./components/exercicio09";
 
 export default function App() {
   return (
@@ -27,6 +29,15 @@ export default function App() {
 
        <hr />
        <DisJunior />
+
+       <hr />
+       <CampoDigitacao />
+
+       <hr />
+       <AcessoBancario />
+
+       <hr />
+       <SenhaSecreta />
 
        <hr />
        <CampoDigitacao />
