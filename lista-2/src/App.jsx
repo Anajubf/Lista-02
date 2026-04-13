@@ -4,6 +4,7 @@ import BotaoUniversal from "./components/exercicio03";
 import CrachaVistitante from "./components/exercicio04";
 import CampoDigitacao from "./components/exercicio08";
 import AcessoBancario from "./components/exercicio09";
+import SenhaSecreta from "./components/exercicio10";
 
 export default function App() {
   return (
